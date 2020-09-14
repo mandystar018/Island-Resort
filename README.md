@@ -18,7 +18,7 @@ _This web page contains pictures of the resort, details and reservations._
 
 ## Known Bugs
 
-_ No issues or bugs found in this webpage._
+_No issues or bugs found in this webpage._
 
 ## Support and contact details
 
